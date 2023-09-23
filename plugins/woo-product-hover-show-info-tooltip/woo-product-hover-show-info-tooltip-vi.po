@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Product Hover Show ToolTip Info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-06 09:27+0000\n"
+"PO-Revision-Date: 2022-08-06 09:27+0000\n"
+"Last-Translator: Hà Phước Sơn\n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: woo-product-hover-show-info-tooltip"
+
+#. Name of the plugin
+msgid "Woocommerce Product Hover Show ToolTip Info"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Show product short description tooltip info when user hover, designed to "
+"work with Woocommerce"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.facebook.com/STllYoung/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hà Phước Sơn"
+msgstr ""
